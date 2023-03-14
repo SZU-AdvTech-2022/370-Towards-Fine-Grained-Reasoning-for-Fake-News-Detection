@@ -1,0 +1,9 @@
+@inproceedings{REPO-371,
+    author = "Jin, Yiqiao and Wang, Xiting and Yang, Ruichao and Sun, Yizhou and Wang, Wei and Liao, Hao and Xie, Xing",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "5",
+    pages = "5746--5754",
+    title = "{Towards Fine-Grained Reasoning for Fake News Detection}",
+    volume = "36",
+    year = "2022"
+}
